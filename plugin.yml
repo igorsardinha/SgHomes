@@ -1,0 +1,13 @@
+name: SgHomes
+main: br.com.sgcraft.homes.Main
+author: Sardinhagamer_HD
+version: 5.0
+
+commands:
+    Home:
+        aliases: [homes]
+    Listhomes:
+    Delhome:
+    Sethome:
+    Publica:
+    Particular:
